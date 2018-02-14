@@ -23,8 +23,11 @@
 - Footer
   - Liens FB + IG
   - Copyright
+  - À propos
+  - Contact
   
 ### Professionnels
+- Titre sur fond image
 ### Particuliers
 ### Artistique
 ### Expositions
