@@ -2,7 +2,7 @@
 
 ### Accueil
 - Grande photo de fond qui recouvre le menu, le logo, un bloc de texte (événement, etc.) et un bouton lien.
-  - Menu centré, séparé en deux par le logo
+  - Menu centré, logo à gauche (ou centré, sépare le menu en deux)
   - Pas de bouton "accueil" -> logo cliquable
   - Contenu du menu : Professionnels / Particuliers / Artistique / Expositions / À propos / Contact
   - Liens blancs (contraste avec le fond), effet de couleur quand est survolé
