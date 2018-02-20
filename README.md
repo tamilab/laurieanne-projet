@@ -43,7 +43,7 @@
   -Reportages
 - Texte + bouton contact
 
-## Page projet:
+#### Page projet:
   - Titre sur fond image
   - Texte
   - Galerie de photos
