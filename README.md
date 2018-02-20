@@ -27,6 +27,8 @@
   - À propos
   - Contact
   
+  ![Logo centré](https://github.com/tamilab/laurieanne-projet/blob/master/accueil.jpg)
+  
 ### Professionnels
 - Titre sur fond image
 - 4 images cliquable avec titre:
