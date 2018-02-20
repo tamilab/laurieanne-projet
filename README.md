@@ -7,6 +7,7 @@
   - Contenu du menu : Professionnels / Particuliers / Artistique / Expositions / À propos / Contact
   - Liens blancs (contraste avec le fond), effet de couleur quand est survolé
   - Logo blanc (contraste avec le fond), couleur du logo apparait quand est survolé
+  - Bloc de texte
 - Galerie de photos (feed Instagram)
   - Deux lignes de 4 photos
   - Lien "...voir plus sur Instagram" en bas à droite
