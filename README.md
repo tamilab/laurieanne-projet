@@ -27,10 +27,10 @@
   - À propos
   - Contact
   
-  >Exemple avec logo centré : 
+  Exemple avec logo centré :  
   ![Logo centré](https://github.com/tamilab/laurieanne-projet/blob/master/accueil.jpg)
   
-  >Exemple avec logo à gauche : 
+  Exemple avec logo à gauche :  
   ![Logo gauche](https://github.com/tamilab/laurieanne-projet/blob/master/accueilv2.jpg)
   
 ### Professionnels
