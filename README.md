@@ -27,11 +27,15 @@
   - À propos
   - Contact
   
+  Exemple avec logo centré : 
   ![Logo centré](https://github.com/tamilab/laurieanne-projet/blob/master/accueil.jpg)
+  
+   Exemple avec logo à gauche : 
+  ![Logo gauche](https://github.com/tamilab/laurieanne-projet/blob/master/accueilv2.jpg)
   
 ### Professionnels
 - Titre sur fond image
-- 4 images cliquable avec titre:
+- 4 images cliquable avec titre :
   -SNCB/infrabel
   -Dernier jardin
   -Studio/graphisme
