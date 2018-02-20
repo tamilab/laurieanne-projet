@@ -4,7 +4,8 @@
 - Grande photo de fond qui recouvre le menu, le logo, un bloc de texte (événement, etc.) et un bouton lien.
   - Menu centré, logo à gauche (ou centré, sépare le menu en deux)
   - Pas de bouton "accueil" -> logo cliquable
-  - Contenu du menu : Professionnels / Particuliers / Artistique / Expositions / À propos / Contact
+  - Contenu du menu : Professionnels / Particuliers / Artistique / Expositions
+  - Les liens "À propos" et "Contact" sont mis à part (soit au dessus ou en dessous du menu principal)
   - Liens blancs (contraste avec le fond), effet de couleur quand est survolé
   - Logo blanc (contraste avec le fond), couleur du logo apparait quand est survolé
   - Bloc de texte (dernier événement) + lien + photo (carré)
