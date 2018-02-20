@@ -28,8 +28,36 @@
   
 ### Professionnels
 - Titre sur fond image
+- 4 images cliquable avec titre:
+  -SNCB/infrabel
+  -Dernier jardin
+  -Studio/graphisme
+  -Reportages
+- Texte + bouton contact
+
+## Page projet:
+  - Titre sur fond image
+  - Texte
+  - Galerie de photos
+  - Bouton contact
+
 ### Particuliers
+  - Même chose que pour "professionnels" + petite galerie pour donner un aperçu des photos
+  
 ### Artistique
+  - Titre sur fond image
+  - Un bandeau pour chaque projet : Titre, 4-5 carrés d'images et un bouton "voir plus de photos" qui mène à la page du projet
+  - Un bouton contact à la fin
+  
 ### Expositions
+  - Titre sur fond image
+  - Affichage des expositions du plus récent au plus anciens
+  - Comme pour la page artistique-> bandeau pour chaque exposition : Titre, description (dates etc), 4-5 carrés d'images + "en savoir plus"
+  
 ### À propos
+  - Deux blocs côtes à côtes, photo de l'auteur à gauche et description à droite
+  - Lien vers la page contact
+  - Boutons réseaux sociaux
+  
 ### Contact
+  - Deux blocs côtes à côtes, boîte de texte à gauche, formulaire à droite.
