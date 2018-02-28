@@ -18,6 +18,9 @@
     - Portrait
     - Grossesse & Naissance
     - ...
+    - (ligne 2) Sncb
+    - etc
+  - Bouton lien vers le site partenaire
   - Bouton contact
     - Sous forme de bannière (image de fond, bouton "contactez-moi")-> plus visible
     - OU
