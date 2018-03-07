@@ -51,6 +51,7 @@
   - Titre sur fond image
   - Texte
   - Galerie de photos
+  - Lien vers site du partenaire
   - Bouton contact
 
 ### Particuliers
@@ -59,6 +60,7 @@
 ### Artistique
   - Titre sur fond image
   - Un bandeau pour chaque projet : Titre, 4-5 carrés d'images et un bouton "voir plus de photos" qui mène à la page du projet
+  -Lien vers le site du partenaire
   - Un bouton contact à la fin
   
 ### Expositions
@@ -66,6 +68,8 @@
   - Affichage des expositions du plus récent au plus anciens
   - Comme pour la page artistique-> bandeau pour chaque exposition : Titre, description (dates etc), 4-5 carrés d'images + "en savoir plus"
   - Lien vers page professionels et particuliers
+  - Lien vers le site du partenaire
+  - Lien contact
   
 ### À propos
   - Deux blocs côtes à côtes, photo de l'auteur à gauche et description à droite
