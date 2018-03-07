@@ -44,6 +44,7 @@
   -Dernier jardin
   -Studio/graphisme
   -Reportages
+- Lien vers page Particuliers et page Artistique
 - Texte + bouton contact
 
 #### Page projet:
@@ -64,6 +65,7 @@
   - Titre sur fond image
   - Affichage des expositions du plus récent au plus anciens
   - Comme pour la page artistique-> bandeau pour chaque exposition : Titre, description (dates etc), 4-5 carrés d'images + "en savoir plus"
+  - Lien vers page professionels et particuliers
   
 ### À propos
   - Deux blocs côtes à côtes, photo de l'auteur à gauche et description à droite
